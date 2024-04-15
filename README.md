@@ -1,11 +1,11 @@
 ### Hi there 👋
-I'm Baek Hajun. Welcome to my github channel.
+I'm HJ. Welcome to my github channel.
 
 <h3 align="center">👨‍💻 Profile 👨‍💻</h3>
 
 <p align="center"> KMOU, Marine Engineering | 2019.03 ~ 2021.02 </p>
 <p align="center"> Chungbuk National University, Computer engineering | 2021.03 ~ </p>
-<p align="center"> :kr:🪖 Republic of Korea Airforce 🪖:kr:  | 2022.10.31 ~ 2024.07 </p>
+<p align="center"> :kr:🪖 Republic of Korea Airforce 🪖:kr: </p>
 
 <h3 align="center">🛠️ Tech stack 🛠️</h3>
 
