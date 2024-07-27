@@ -5,7 +5,7 @@ I'm HJ. Welcome to my github channel.
 
 <p align="center"> KMOU, Marine Engineering | 2019.03 ~ 2021.02 </p>
 <p align="center"> Chungbuk National University, Computer engineering | 2021.03 ~ </p>
-<p align="center"> Computer Engineer of ROKAF </p>
+<p align="center"> Sergeant of ROKAF | 2022.10 ~ 2024.07.30 </p>
 
 <h3 align="center">🛠️ Tech stack 🛠️</h3>
 
