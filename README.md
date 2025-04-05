@@ -23,7 +23,7 @@ I'm HJ. Welcome to my github channel.
 
 <p align="center"> Used at least once </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
 </p>
 <!--
