@@ -3,7 +3,7 @@ I'm HJ. Welcome to my github channel.
 
 <h3 align="center">👨‍💻 Profile 👨‍💻</h3>
 
-<p align="center"> KMOU, Marine Engineering | 2019.03 ~ 2021.02 </p>
+<p align="center"> KMOU, Marine Engineering | 2019.03 ~ 2021.02 (Dropped out) </p>
 <p align="center"> Chungbuk National University, Computer engineering | 2021.03 ~ 2022.08, 2024.08 ~ </p>
 <p align="center"> Sergeant of ROKAF | 2022.10 ~ 2024.07.30 </p>
 
